@@ -1,5 +1,5 @@
 nav {
-  top: 0;
+  top: 0; /* I think a - margin-top would work like margin-top: -30px */
   float: right;
 }
 
