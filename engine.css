@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300');
+
+/* EVERYTHING ENGINE */
+
+body, html {
+  height: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  position:absolute;
+  width: 100%;
+  height: 100%;
+  background: lightgray;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+}
+
+#return-home {
+  font-family: 'Quicksand';
+  border: 1px solid gray;
+  padding: 20px;
+}
